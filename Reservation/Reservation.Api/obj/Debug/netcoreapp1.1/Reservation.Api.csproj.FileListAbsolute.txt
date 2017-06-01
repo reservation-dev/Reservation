@@ -1,0 +1,13 @@
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Api.deps.json
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Api.runtimeconfig.json
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Api.runtimeconfig.dev.json
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Api.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Api.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Core.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Infrastructure.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Infrastructure.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\bin\Debug\netcoreapp1.1\Reservation.Core.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\obj\Debug\netcoreapp1.1\Reservation.Api.csprojResolveAssemblyReference.cache
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\obj\Debug\netcoreapp1.1\Reservation.Api.AssemblyInfo.cs
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\obj\Debug\netcoreapp1.1\Reservation.Api.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Api\obj\Debug\netcoreapp1.1\Reservation.Api.pdb

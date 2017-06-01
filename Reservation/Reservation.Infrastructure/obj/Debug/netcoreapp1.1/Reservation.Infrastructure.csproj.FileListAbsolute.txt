@@ -1,0 +1,9 @@
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\bin\Debug\netcoreapp1.1\Reservation.Infrastructure.deps.json
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\bin\Debug\netcoreapp1.1\Reservation.Infrastructure.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\bin\Debug\netcoreapp1.1\Reservation.Infrastructure.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\bin\Debug\netcoreapp1.1\Reservation.Core.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\bin\Debug\netcoreapp1.1\Reservation.Core.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\obj\Debug\netcoreapp1.1\Reservation.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\obj\Debug\netcoreapp1.1\Reservation.Infrastructure.AssemblyInfo.cs
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\obj\Debug\netcoreapp1.1\Reservation.Infrastructure.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Infrastructure\obj\Debug\netcoreapp1.1\Reservation.Infrastructure.pdb

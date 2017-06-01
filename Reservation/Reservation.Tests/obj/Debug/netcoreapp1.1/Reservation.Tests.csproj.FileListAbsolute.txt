@@ -1,0 +1,16 @@
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Tests.deps.json
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Tests.runtimeconfig.json
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Tests.runtimeconfig.dev.json
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Tests.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Tests.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Core.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Infrastructure.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Core.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\bin\Debug\netcoreapp1.1\Reservation.Infrastructure.pdb
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\obj\Debug\netcoreapp1.1\Reservation.Tests.csprojResolveAssemblyReference.cache
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\obj\Debug\netcoreapp1.1\Reservation.Tests.AssemblyInfo.cs
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\obj\Debug\netcoreapp1.1\Reservation.Tests.dll
+E:\Paweł\!!! Programowanie\Aplikacje\Reservation\Reservation\Reservation.Tests\obj\Debug\netcoreapp1.1\Reservation.Tests.pdb
